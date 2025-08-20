@@ -1,1 +1,0 @@
-# walletd desktop
